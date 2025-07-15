@@ -13,14 +13,42 @@ h1 {
     color: darkblue
 }
 
-img {
+main img {
     width: 150px;
     height: auto;
     border: 1px solid darkblue;
     padding: 2px;
-    box-shadow: 0 0 30px gray;
+    box-shadow: 0 0 30px rgb(128, 128, 128);
 }
 
 p {
-    padding: 10px;
+    padding: 0;
 }
+
+main {
+    max-width:auto;
+}
+
+aside {
+    max-width: auto;
+  background-color: rgb(13, 14, 89);
+  width: auto;
+  height: auto;
+  padding: auto;
+  border: 1px solid rgb(225, 217, 217);
+  color: rgb(239, 236, 236);
+  text-align: left;
+}
+
+aside img {
+    width : 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 20px;
+    border-top: 2px solid darkblue;
+    text-align: center;
+}
+
+
