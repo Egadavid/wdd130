@@ -8,9 +8,9 @@
 }*/
 
 :root {
-  --primary-color: #1565C0; /* Bold blue for header/footer */
+  --primary-color: #468ad8; /* Bold blue for header/footer */
   --secondary-color: #ffffff; /* White for text on blue */
-  --accent1-color: #2E7D32; /* Forest green for highlights */
+  --accent1-color: #0a0b29; /* Forest green for highlights */
   --accent2-color: #FFB300; /* Golden yellow for attention elements */
   --heading-font: "Inter";
   --body-font: "Libertinus Serif";
